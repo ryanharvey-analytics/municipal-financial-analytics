@@ -6,6 +6,12 @@ municipal fiscal trends and support executive-level decision-making.
 The focus is on reproducible reporting, data visualization, and transparent
 analytical methods using R and Quarto.
 
+## Project Context
+
+This project demonstrates an applied municipal finance analytics workflow used to evaluate fiscal trends and communicate insights to executive leadership. 
+
+The analysis focuses on transforming raw financial data into clear visualizations and executive-ready reporting, bridging technical analysis with public-sector decision-making.
+
 ## Topics Covered
 - Financial health indicators
 - Budget trend analysis
