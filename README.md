@@ -14,3 +14,14 @@ analytical methods using R and Quarto.
 
 ## Status
 Project structure in progress — additional analysis and documentation coming soon.
+
+## Example Outputs
+
+### Revenue Trends
+![Revenue Trends](figures/revenue_expenditure_trends.png)
+
+### Expenditure Trends
+![Expenditure Trends](figures/revenue_expenditure_difference.png)
+
+### Fund Balance Trends
+![Fund Balance Trends](figures/gen_fund_expenditures.png)
